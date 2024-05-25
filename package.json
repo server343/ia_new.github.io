@@ -1,0 +1,19 @@
+{
+    "name": "tu-proyecto",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "parcel index.html --port 3000"
+    },
+    "dependencies": {
+      "@huggingface/inference": "^0.1.0"
+    },
+    "devDependencies": {
+      "parcel": "^2.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
